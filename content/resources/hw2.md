@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3dda8963-3dab-9787-295f-aae3fbaa108e
 resourcetype: Document
 title: 'Structures Homework #2: Graphic Statics'
 uid: af0368cd-5bb5-4433-6a32-c38b3cd08a04

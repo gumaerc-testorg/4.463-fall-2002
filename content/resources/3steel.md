@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 29a3f417-c362-bd59-dd9d-2e213fa8e2e3
 resourcetype: Document
 title: Steel Structures
 uid: ce368ddf-c96d-5ecf-c6d8-920cba86972b

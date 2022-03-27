@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 4e8a8c19-46a4-9099-f511-90bc4dff5221
 resourcetype: Document
 title: 'Assignment 2: Exterior Envelope Classification and Analysis'
 uid: bc8532ea-805e-4a85-f65a-c4c26ec16d30

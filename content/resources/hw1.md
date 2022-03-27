@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3dda8963-3dab-9787-295f-aae3fbaa108e
 resourcetype: Document
 title: 'Homework #1: Equilibrium Of Masonry Structures'
 uid: 49d5275d-3e60-1411-17c7-692ded202638

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 4e8a8c19-46a4-9099-f511-90bc4dff5221
 resourcetype: Document
 title: 'Building Technology III: Final Project, Part I, Structural Design'
 uid: 9a25387a-68c7-46b2-dce8-bb3cfe0fb8bc

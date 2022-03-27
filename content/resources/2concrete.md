@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 29a3f417-c362-bd59-dd9d-2e213fa8e2e3
 resourcetype: Document
 title: Concrete Structures
 uid: 61ff40da-f6fa-9c8c-4a03-7e410ee56675
