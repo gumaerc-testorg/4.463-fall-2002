@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Notes
 uid: 29a3f417-c362-bd59-dd9d-2e213fa8e2e3
 ---
@@ -11,6 +12,6 @@ uid: 29a3f417-c362-bd59-dd9d-2e213fa8e2e3
 
 One of the areas of increased study in the graduate courses is in the area of materials and their properties. 4.463 includes three lectures on different building materials, as seen below.
 
-1.  Timber Lecture ([PDF]({{< baseurl >}}/resources/1timber))
-2.  Concrete Lecture ([PDF]({{< baseurl >}}/resources/2concrete))
-3.  Steel Lecture ([PDF]({{< baseurl >}}/resources/3steel))
+1.  Timber Lecture ({{< resource_link 3cc94bff-671e-84f6-4d98-e631e2c1f5fc "PDF" >}})
+2.  Concrete Lecture ({{< resource_link 61ff40da-f6fa-9c8c-4a03-7e410ee56675 "PDF" >}})
+3.  Steel Lecture ({{< resource_link ce368ddf-c96d-5ecf-c6d8-920cba86972b "PDF" >}})
