@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, themes, questions for evaluating a structure, the final project, grading,
+  and attendance policy.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 93ae975c-9c43-8907-37c0-7d57b64bf415
 ---
