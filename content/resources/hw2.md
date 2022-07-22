@@ -5,6 +5,7 @@ file: /courses/4-463-building-technologies-iii-building-structural-systems-ii-fa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Structures Homework #2: Graphic Statics'
 uid: af0368cd-5bb5-4433-6a32-c38b3cd08a04
 ---
 Homework assignment on graphic statics.
-

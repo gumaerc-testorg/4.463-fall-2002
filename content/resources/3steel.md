@@ -5,6 +5,7 @@ file: /courses/4-463-building-technologies-iii-building-structural-systems-ii-fa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Steel Structures
 uid: ce368ddf-c96d-5ecf-c6d8-920cba86972b
 ---
 Lecture presentation on steel structures.
-

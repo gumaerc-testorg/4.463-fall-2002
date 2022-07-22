@@ -5,6 +5,7 @@ file: /courses/4-463-building-technologies-iii-building-structural-systems-ii-fa
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Building Technology III: Final Project, Part I, Structural Design'
 uid: 9a25387a-68c7-46b2-dce8-bb3cfe0fb8bc
 ---
 Final Project on structural design.
-

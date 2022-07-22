@@ -5,6 +5,7 @@ file: /courses/4-463-building-technologies-iii-building-structural-systems-ii-fa
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Assignment 2: Exterior Envelope Classification and Analysis'
 uid: bc8532ea-805e-4a85-f65a-c4c26ec16d30
 ---
 Midterm project on exterior envelope classification and analysis.
-

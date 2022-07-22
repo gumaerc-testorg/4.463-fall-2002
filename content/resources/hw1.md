@@ -5,6 +5,7 @@ file: /courses/4-463-building-technologies-iii-building-structural-systems-ii-fa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Homework #1: Equilibrium Of Masonry Structures'
 uid: 49d5275d-3e60-1411-17c7-692ded202638
 ---
 Homework assignment on equilibrium of masonry structures.
-
