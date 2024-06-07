@@ -2,6 +2,7 @@
 content_type: resource
 description: Final Project on structural design.
 file: /courses/4-463-building-technologies-iii-building-structural-systems-ii-fall-2002/9a25387a68c746b2dce8bb3cfe0fb8bc_structpostertemplate.pdf
+file_size: 50320
 file_type: application/pdf
 learning_resource_types:
 - Projects
