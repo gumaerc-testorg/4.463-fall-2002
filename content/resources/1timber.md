@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on timber structures.
-file: /courses/4-463-building-technologies-iii-building-structural-systems-ii-fall-2002/3cc94bff671e84f64d98e631e2c1f5fc_1timber.pdf
+file: /ol-ocw-studio-app/courses/4-463-building-technologies-iii-building-structural-systems-ii-fall-2002/3cc94bff671e84f64d98e631e2c1f5fc_1timber.pdf
 file_size: 306894
 file_type: application/pdf
 learning_resource_types:
